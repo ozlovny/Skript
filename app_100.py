@@ -295,7 +295,7 @@ def create_invoice(amount, asset='USDT', description='Пополнение ба�
 
 def check_invoice_status(invoice_id):
     """Проверяет статус инвойса через Crypto Bot API."""
-    url = "https://testnet-pay.crypt.bot/api/createInvoice"
+    url = "https://pay.crypt.bot/api/createInvoice"
     headers = {
         "Crypto-Pay-API-Token": BOT_DATA['crypto_bot_token'],
         "Content-Type": "application/json"
