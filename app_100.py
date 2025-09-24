@@ -13,7 +13,7 @@ flyer = None
 logging.basicConfig(level=logging.ERROR, format='%(asctime)s - %(levelname)s - %(message)s')
 
 # --- ГЛОБАЛЬНЫЕ ПЕРЕМЕННЫЕ (ЗАМЕНИТЕ ВАШИ ЗНАЧЕНИЯ) ---
-BOT_TOKEN = '7552979014:AAEW_xIWh48sJ3a3MIvjo-tzhkFm_2z3DB8'
+BOT_TOKEN = '7'
 ADMIN_ID = 6677500867 # Замените на ваш реальный ID администратора Telegram (число)
 CRYPTO_BOT_API_TOKEN = '463624:AASINVLeyTl43VK6mozoRtetIPhFg255n0V'
 
